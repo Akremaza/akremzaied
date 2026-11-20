@@ -224,9 +224,5 @@ pipeline {
 
 ---
 
-## 👤 Auteur
 
-**ESPRIT — UP ASI**  
-Test trigger auto Jenkins
 
-Test trigger auto (Poll SCM)
